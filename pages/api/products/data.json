@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "seller": "1",
+    "product": "Trufa BENDITO CACAU 55% CACAU 30 G",
+    "skuName": "TRUFA BENDITO CACAU",
+    "productId": "317",
+    "quantity": 1,
+    "price": 303,
+    "listPrice": 303,
+    "category":"trufas",
+    "sellingPrice": 273,
+    "image": "https://codeby.vteximg.com.br/arquivos/ids/159942-800-1029/trufa-tradicional.png?v=636916452526400000",
+    "detailUrl": "/trufa-bendito-cacau-55-/p",
+    "assemblyOptions": []
+  },
+  {
+    "id": "2",
+    "seller": "1",
+    "product": "TRUFA MORANGO",
+    "skuName": "TRUFA MORANGO",
+    "productId": "314",
+    "quantity": 1,
+    "price": 123,
+    "listPrice": 123,
+    "category":"trufas",
+    "sellingPrice": 111,
+    "image": "http://codeby.vteximg.com.br/arquivos/ids/159939-800-1029/trufa-morango-30g.png?v=636916431597070000",
+    "detailUrl": "/trufa-morango/p",
+    "assemblyOptions": []
+  },
+  {
+    "id": "3",
+    "seller": "1",
+    "product": "TRUFA TRADICIONAL 30 G",
+    "skuName": "TRUFA TRADICIONAL",
+    "productId": "312",
+    "quantity": 1,
+    "price": 303,
+    "listPrice": 303,
+    "category":"trufas",
+    "sellingPrice": 273,
+    "image": "http://codeby.vteximg.com.br/arquivos/ids/159942-800-1029/trufa-tradicional.png?v=636916452526400000",
+    "detailUrl": "/trufa-tradicional/p"
+    }
+]

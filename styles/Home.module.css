@@ -1,0 +1,24 @@
+.container {
+  padding: 0 2rem;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.small {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.large {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+@media screen and (max-width: 600px) {
+  .small {
+    grid-template-columns: 1fr;
+  }
+  .large {
+    grid-template-columns: 1fr;
+  }
+}

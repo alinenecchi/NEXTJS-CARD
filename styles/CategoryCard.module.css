@@ -1,0 +1,23 @@
+.image {
+  object-fit: cover;
+  transition: all 0.1s cubic-bezier(0.96, 0.96, 0.91, 0.96);
+}
+
+.info {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  background: #e6e6e6;
+  padding: 1.5rem;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  opacity: 0.8;
+  border: 1px solid var(--gray-2);
+  box-shadow:  1px 1px 1px;
+  cursor: pointer;
+}
+
+.card:hover .image {
+  transform: scale(1.2);
+}
+
